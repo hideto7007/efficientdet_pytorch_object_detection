@@ -1,0 +1,11 @@
+torch
+torchvision
+lxml
+opencv-python
+matplotlib
+numpy
+pandas
+# pycocotools
+tqdm
+argparse
+tensorboardX
