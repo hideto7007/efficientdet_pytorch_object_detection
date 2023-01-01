@@ -352,4 +352,6 @@ Sincerely thank you for your generosity.
 - pip install scikit-image
 - pip install cython
 - pip install --upgrade pip setuptools wheel --user
+- [download from link Microsoft Visual C++ vs_buildtools](https://visualstudio.microsoft.com/ja/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16)
+- pip install pycocotools
 
