@@ -346,3 +346,10 @@ Sincerely thank you for your generosity.
 
 [cndylan](https://github.com/cndylan)
 [claire-s11](https://github.com/claire-s11)
+
+
+### local pycocotools install
+- pip install scikit-image
+- pip install cython
+- pip install --upgrade pip setuptools wheel --user
+

@@ -3,12 +3,12 @@ import torch
 import numpy as np
 
 from torch.utils.data import Dataset, DataLoader
-from pycocotools.coco import COCO
+from pycocotools.coco import COCO # cocoapi.PythonAPI.
 import cv2
 
 
 class CocoDataset(Dataset):
-    def __init__(self, root_dir, set='train2017', transform=None):
+    def __init__(self, root_dir, set='train_images', transform=None):
 
         self.root_dir = root_dir
         self.set_name = set

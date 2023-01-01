@@ -5,7 +5,10 @@ opencv-python
 matplotlib
 numpy
 pandas
+pyyaml
+cython
 # pycocotools
+git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
 tqdm
 argparse
 tensorboardX
