@@ -7,8 +7,8 @@ numpy
 pandas
 pyyaml
 cython
-# pycocotools
-git+https://github.com/philferriere/cocoapi.git#subdirectory=PythonAPI
+pycocotools
+webcolors
 tqdm
 argparse
 tensorboardX
